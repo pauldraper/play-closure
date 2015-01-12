@@ -1,0 +1,4 @@
+[submodule "plovr"]
+	path = plovr/plovr
+	url = git@github.com:pauldraper/plovr
+	branch = master

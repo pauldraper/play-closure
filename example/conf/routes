@@ -1,0 +1,5 @@
+GET / example.controllers.MyController.index
+
+GET /assets/*file controllers.Assets.at(path = "/public", file)
+
+GET /plovr/*path com.github.pauldraper.playclosure.play.controllers.PlovrController(path)

@@ -1,0 +1,11 @@
+{
+  "id": "main",
+  "inputs": [
+    "../../app/example/assets/javascripts/main.js"
+  ],
+  "level": "VERBOSE",
+  "mode": "ADVANCED",
+  "paths": [
+    "../../app/example/assets/javascripts"
+  ]
+}
